@@ -1,0 +1,35 @@
+{
+  "name": "bm-user-overlay",
+  "version": "2.4.0",
+  "description": "A Tampermonkey userscript that enhances the BattleMetrics RCON panel",
+  "main": "BM-User-Overlay.js",
+  "scripts": {
+    "update": "node update-userscript.js",
+    "update:help": "node update-userscript.js --help",
+    "test": "echo \"No tests specified\" && exit 0",
+    "build": "echo \"No build process needed\" && exit 0"
+  },
+  "keywords": [
+    "tampermonkey",
+    "userscript",
+    "battlemetrics",
+    "rcon",
+    "squad",
+    "gaming"
+  ],
+  "author": "DasT0m & Relish",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/YOUR_REPO.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/YOUR_REPO/issues"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/YOUR_REPO#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
