@@ -70,7 +70,7 @@ function updateAdminsTimestamp() {
 
 function showUsage() {
   console.log(`
-DMH BattleMetrics Overlay - Update Script
+BM-User-Overlay - Update Script
 
 Usage:
   node update-userscript.js          # Update version and timestamp

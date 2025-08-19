@@ -19,7 +19,7 @@ A Tampermonkey userscript that enhances the BattleMetrics RCON panel with color 
 ### Quick Install
 1. Click the link below to install the userscript:
        ```
-    https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/BM-User-Overlay.js
+    https://raw.githubusercontent.com/Armyrat60/BM-Overlay/main/BM-User-Overlay.js
     ```
 2. Tampermonkey will prompt you to install the script
 3. Click "Install" to complete the installation
@@ -135,4 +135,4 @@ For issues or questions:
 
 ---
 
-**Note**: Replace `YOUR_USERNAME` and `YOUR_REPO` in the installation URL with your actual GitHub username and repository name.
+**Note**: This userscript is now hosted at [https://github.com/Armyrat60/BM-Overlay](https://github.com/Armyrat60/BM-Overlay)

@@ -9,7 +9,7 @@
 ## Step 2: Install the Userscript
 1. **Click this link** (replace with your actual GitHub URL):
    ```
-   https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/BM-User-Overlay.js
+   https://raw.githubusercontent.com/Armyrat60/BM-Overlay/main/BM-User-Overlay.js
    ```
 
 2. Tampermonkey will open and show the installation page
@@ -39,4 +39,4 @@
 
 ---
 
-**Note**: Replace `YOUR_USERNAME` and `YOUR_REPO` in the installation URL with your actual GitHub username and repository name.
+**Note**: This userscript is now hosted at [https://github.com/Armyrat60/BM-Overlay](https://github.com/Armyrat60/BM-Overlay)

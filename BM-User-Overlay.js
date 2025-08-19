@@ -3,8 +3,8 @@
 // @name BM-User-Overlay
 // @namespace https://www.battlemetrics.com/
 // @version 2.4
-// @updateURL https://raw.githubusercontent.com/DasT0m/DMH-BM-Userscript/refs/heads/main/BM-User-Overlay.js
-// @downloadURL https://raw.githubusercontent.com/DasT0m/DMH-BM-Userscript/refs/heads/main/BM-User-Overlay.js
+// @updateURL https://raw.githubusercontent.com/Armyrat60/BM-Overlay/main/BM-User-Overlay.js
+// @downloadURL https://raw.githubusercontent.com/Armyrat60/BM-Overlay/main/BM-User-Overlay.js
 // @description Modifies the rcon panel for battlemetrics to help color code important events and details about players.
 // @author Dast0m & Relish
 // @match https://www.battlemetrics.com/*
@@ -35,7 +35,7 @@ const CONFIG = {
 
   // API endpoints
   graphqlEndpoint: "https://communitybanlist.com/graphql",
-  adminListURL: "https://raw.githubusercontent.com/DasT0m/DMH-BM-Userscript/refs/heads/main/admins.json"
+  adminListURL: "https://raw.githubusercontent.com/Armyrat60/BM-Overlay/main/admins.json"
 };
 
 // Color scheme
@@ -232,7 +232,7 @@ const UIComponents = {
     versionButton.style.setProperty('--btn-color', '#1a1a1a');
     versionButton.addEventListener('click', () => {
       this.animateClick(versionButton);
-      window.open("https://raw.githubusercontent.com/DasT0m/DMH-BM-Userscript/refs/heads/main/BM-User-Overlay.js", "_blank");
+      window.open("https://raw.githubusercontent.com/Armyrat60/BM-Overlay/main/BM-User-Overlay.js", "_blank");
     });
     buttonContainer.appendChild(versionButton);
   },
